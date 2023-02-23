@@ -1,0 +1,39 @@
+{
+	"BOLEMH1": {
+		"baseUrl": "https://mybl.xyz"
+	},
+	"MKZHAN": {
+		"baseUrl": "https://comic.mkzhan.com",
+		"serverUrl": "https://comic.mkzcdn.com"
+	},		
+	"XMANHUA": {
+		"baseUrl": "https://xmanhua.com"
+	},	
+	"VOMIC": {
+		"baseUrl": "http://www.iewoai.com"
+	},
+	"YEMANMH": {
+		"baseUrl": "https://mhkami.com",
+		"serverUrl": "",
+		"search": "/search?searchkey=%s",
+		"searchInfoList": "#js_comicSortList > li",
+		"searchInfoCid": "a",
+		"searchInfoTitle": "p.title",
+		"searchInfoCover": "img",
+		"searchInfoAuthor": "",
+		"searchInfoUpdate": "span.chapter",
+		"parseInfoTitle": "h1.name",
+		"parseInfoCover": "div#detail",
+		"parseInfoIntro": "p#js_desc_content",
+		"parseInfoAuthor": "span.author",
+		"parseInfoUpdate": "span.update_time",
+		"parseInfoStatus": "span.origin",
+		"parseChapterList1": "ul#js_chapters > li > a",
+		"parseChapterPath": "",
+		"parseChapterTitle": "",
+		"parseImageList": "#imgsec img.calwh",
+		"parseCategoryPath": ""
+	},
+	"backup_update": "https://ghproxy.com/https://raw.githubusercontent.com/hhkrob1/ttttt/main/123.json",
+	"update_backup_my": "https://ghproxy.com/https://raw.githubusercontent.com/hhkrob1/ttttt/main/123.json"
+}
