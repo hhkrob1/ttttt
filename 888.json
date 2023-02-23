@@ -1,0 +1,32 @@
+{
+    "IQIYI": {
+        "baseUrl": "https://www.iqiyi.com",
+        "search": "/manhua/search-keyword=%s",
+        "searchInfoList": "ul.stacksList > li > div",
+        "searchInfoCid": "div.stacksBookCover > a",
+        "searchInfoTitle": "h3.stacksBook-tit",
+        "searchInfoCover": "div.stacksBookCover > a > img",
+        "searchInfoAuthor": ".stacksBook-about > :eq(1)",
+        "searchInfoUpdate": ".stacksBook-about > :eq(3)",
+        "parseInfoTitle": ".detail-tit > h1",
+        "parseInfoCover": "div.detail-cover > img",
+        "parseInfoIntro": "p.detail-docu",
+        "parseInfoAuthor": "span.author-name",
+        "parseInfoUpdate": "h2.catalog-title > :eq(2) > a",
+        "parseInfoStatus": "h2.catalog-title > :eq(0)",
+        "parseChapterList1": "",
+        "parseChapterPath": "",
+        "parseChapterTitle": "",
+        "parseImageList": "ul.main-container > li > img",
+        "parseImageUrl": "img",
+        "parseCategoryInfoList": "ul.cartoon-hot-ul > li.cartoon-hot-list",
+        "parseCategoryInfoCid": "a.cartoon-cover",
+        "parseCategoryInfoTitle": "a.cartoon-item-tit",
+        "parseCategoryInfoCover": "a.cartoon-cover > img",
+        "parseCategoryInfoAuthor": "",
+        "parseCategoryInfoUpdate": "",
+        "parseCategoryPath": "/manhua/category/%s_%s_%s_1/"
+    },
+    "backup_update": "https://github.com/hhkrob1/ttttt/blob/main/777.json",
+    "update_backup_my": "https://github.com/hhkrob1/ttttt/blob/main/777.json"
+}
