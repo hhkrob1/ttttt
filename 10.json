@@ -1,70 +1,36 @@
 {
-	"ANIMX2": "https://www.2animx.com",
-	"BAINIAN": "https://m.bnman.net",
-	"BUKA": "http://m.buka.cn",
-	"CARTOONMAD": "https://www.cartoonmad.com",
-	"CCMH": "http://m.ccmh16.com",
-	"CCTUKU": "http://m.tuku.cc",
-	"CHUIXUE": "http://www.chuixue.net",
-	"CHUIXUESERVER": "https://chuixue2.xiluweb.com/",
-	"CHUIYAO": "http://m.chuiyao.com",
-	"COPYMH": "https://copymanga.site",
-	"COPYMHSERVER": "https://api.copymanga.net",
-	"DM5": "https://m.dm5.com",
-	"DMZJ": "http://m.dmzj1.com",
-	"DMZJSEARCH": "http://s.acg.dmzj1.com",
-	"DMZJPICTURE": "http://images.dmzj1.com/",
-	"DMZJSERVER": "http://v3api.dmzj1.com",
-	"DMZJFIX": "https://m.dmzj.com",
-	"DMZJFIXPICTURE": "https://images.dmzj.com/",
-	"DMZJFIXSERVER": "http://api.dmzj.com",
-	"DMZJV2": "https://m.dmzj.com",
-	"DMZJV2PICTURE": "https://images.dmzj.com/",
-	"DMZJV2SERVER": "http://v2.api.dmzj.com",
-	"EHENTAI": "",
-	"EHENTAISERVER1": "",
-	"EHENTAISERVER2": "",
-	"EHENTAIINFOCOVER": "",
-	"GUFENG": "https://m.gufengmh.com",
-	"GUFENGSERVER": "https://res.xiaoqinre.com/",
-	"HHXXEE": "",
-	"HOTMANGA": "",
-	"HOTMANGASERVER": "",
-	"IKANMAN": "https://www.manhuagui.com",
-	"IKANMANTW": "https://tw.manhuagui.com",
-	"IKANMANSERVER": "https://i.hamreus.com",
-	"JMTT": "",
-	"MH57": "http://m.57mh.org/",
-	"MH57SERVER": "http://imagesold.benzidui.com",
-	"MH160": "https://www.mh160.cc",
-	"MH160SERVER1": "https://mhpic5.kingwar.cn",
-	"MH160SERVER2": "https://mhpic6.kingwar.cn",
-	"MH160SERVER3": "https://mhpic5.kingwar.cn",
-	"MH517": "http://m.517manhua.com",
-	"MHLOVE": "",
-	"MIGU": "http://www.migudm.cn",
-	"OHMANHUA": "https://www.colamanhua.com",
-	"OHMANHUARATELIMIT": 500,
-	"PUFEI": "http://m.pufei.cc",
-	"PUFEISERVER": "http://res.img.shengda0769.com/",
-	"QIMANWU": "http://qiman58.com",
-	"QIMIAOMH": "https://www.qimiaomh.com",
-	"SIXMH": "http://6mh66.com",
-	"TENCENT": "http://ac.qq.com",
-	"TENCENTM": "https://m.ac.qq.com",
-	"TUHAO": "https://www.kawazhuyy.com",
-	"U17": "http://www.u17.com",
-	"U17_SO": "http://so.u17.com",
-	"WEBTOON": "https://m.webtoons.com",
-	"WEBTOONDONGMANMANHUA": "https://www.dongmanmanhua.cn",
-	"YKMH": "http://wap.ykmh.com/",
-	"YKMH_SERVER": "http://js.tingliu.cc",
-	"YYLS": "",
-	"KUAIKANMANHUA": "",
-	"KUAIKANMANHUASERVER": "https://api.kkmh.com",
-	"HHAAZZ": "",
-	"HHAAZZ_SW": "",
-	"JOYHENTAI": "",
+	"BOLEMH": {
+		"baseUrl": "https://mybl.xyz"
+	},
+	"MKZHAN": {
+		"baseUrl": "https://comic.mkzhan.com",
+		"serverUrl": "https://comic.mkzcdn.com"
+	},		
+	"XMANHUA": {
+		"baseUrl": "https://xmanhua.com"
+	},	
+	"VOMIC": {
+		"baseUrl": "http://www.iewoai.com"
+	},
+	"TUHAOMHV2": {
+		"baseUrl": "https://www.tuhmh.com"
+	},
+	"LAIMH": {
+		"baseUrl": "https://www.laimanhua.net",
+		"server": ["xwdf.kingwar.cn", "mhreswhm.kingwar.cn", "qwe123.kingwar.cn", "resmhpic.kingwar.cn", "reszxc.kingwar.cn"]
+	},
+	"GUOGUOMH": {
+		"baseUrl": "https://www.guoguomh.com"
+	},
+	"KUMANWU": {
+		"baseUrl": "http://www.kumw6.com"
+	},
+	"YOUDM": {
+		"baseUrl": "https://www.udm123.com"
+	},
+	"SHOUJIMH": {
+		"baseUrl": "http://www.gmanhua.com"
+	},
 	"backup_update": "https://raw.githubusercontent.com/hhkrob1/ttttt/main/10.json",
 	"update_backup_my": "https://raw.githubusercontent.com/hhkrob1/ttttt/main/10.json"
 }
