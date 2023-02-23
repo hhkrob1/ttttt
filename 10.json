@@ -1,6 +1,13 @@
 {	
-	"VOMIC": {
-		"baseUrl": "http://www.iewoai.com"
+	"BOLEMH": {
+		"baseUrl": "https://mybl.xyz"
+	},
+	"MKZHAN": {
+		"baseUrl": "https://comic.mkzhan.com",
+		"serverUrl": "https://comic.mkzcdn.com"
+	},		
+	"XMANHUA": {
+		"baseUrl": "https://xmanhua.com"
 	},
 	"backup_update": "https://raw.githubusercontent.com/hhkrob1/ttttt/main/10.json",
 	"update_backup_my": "https://raw.githubusercontent.com/hhkrob1/ttttt/main/10.json"
