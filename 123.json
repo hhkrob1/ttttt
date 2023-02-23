@@ -1,0 +1,20 @@
+{
+	"BOLEMH": {
+		"baseUrl": "https://mybl.xyz"
+	},
+	"MKZHAN": {
+		"baseUrl": "https://comic.mkzhan.com",
+		"serverUrl": "https://comic.mkzcdn.com"
+	},		
+	"XMANHUA": {
+		"baseUrl": "https://xmanhua.com"
+	},	
+	"VOMIC": {
+		"baseUrl": "http://www.iewoai.com"
+	},
+	"TUHAOMHV2": {
+		"baseUrl": "https://www.tuhmh.com"
+	},
+	"backup_update": "https://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json",
+	"update_backup_my": "http://www.cimoc.top/cimoc/sourc/master/raw/sourceBaseUrl.json"
+}
